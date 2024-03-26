@@ -100,7 +100,7 @@ export default function Home() {
           atividades presenciais gratuitas para alunos de Escola pública,
           particular e empresas parceiras desde 2022. No ano de 2024 a ONG deu
           um passo à frente e criou um programa de voluntariado, no qual treina
-          voluntários do Brasil todo para aplicar o "Pacote Florescer", conjunto
+          voluntários do Brasil todo para aplicar o &quot;Pacote Florescer&quot;, conjunto
           de pilares essenciais para o fortalecimento da saúde mental de uma
           comunidade, nas escolas das suas cidades.
         </motion.p>
