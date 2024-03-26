@@ -8,7 +8,7 @@ import { AuroraBackground } from "@/components/global/AuroraBackground";
 import { motion } from "framer-motion";
 import { HoverEffect } from "@/components/global/CardHoverEffect";
 
-export const projects = [
+const projects = [
   {
     title: "Como surgiu?",
     description:
@@ -100,9 +100,9 @@ export default function Home() {
           atividades presenciais gratuitas para alunos de Escola pública,
           particular e empresas parceiras desde 2022. No ano de 2024 a ONG deu
           um passo à frente e criou um programa de voluntariado, no qual treina
-          voluntários do Brasil todo para aplicar o &quot;Pacote Florescer&quot;, conjunto
-          de pilares essenciais para o fortalecimento da saúde mental de uma
-          comunidade, nas escolas das suas cidades.
+          voluntários do Brasil todo para aplicar o &quot;Pacote
+          Florescer&quot;, conjunto de pilares essenciais para o fortalecimento
+          da saúde mental de uma comunidade, nas escolas das suas cidades.
         </motion.p>
       </div>
       <div className="w-full flex items-center justify-center p-24">
