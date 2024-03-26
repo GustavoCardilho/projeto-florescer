@@ -105,7 +105,7 @@ export default function Home() {
           da saúde mental de uma comunidade, nas escolas das suas cidades.
         </motion.p>
       </div>
-      <div className="w-full flex items-center justify-center p-24">
+      <div className="w-full flex items-center justify-center sm:p-24 p-4">
         <HoverEffect items={projects} />
       </div>
     </main>
